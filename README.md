@@ -10,8 +10,8 @@
 - post from list top  { get: /redis/poplist }
 - delete list { get: /redis/deletelist }
 
-_Prerequisite;_
-Redis must be installed locally and running on port 6379
+_Prerequisite;
+Redis must be installed locally and running on port 6379_
 
 _To run the project;_ 
 - clone the repo
