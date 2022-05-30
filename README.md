@@ -1,6 +1,6 @@
-# RESTful API on Koa JS, Node.js framework
+# RESTful API in Express Node.Js using Redis In-memory Database to cache items
 
-**ROplant System where a user can;**
+**A user can;**
 - server running { get: / }
 - redis home { get: /redis }
 - set name { bodyparam: name[str] } { post: /redis/setname }
