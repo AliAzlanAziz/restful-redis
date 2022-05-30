@@ -10,6 +10,9 @@
 - post from list top  { get: /redis/poplist }
 - delete list { get: /redis/deletelist }
 
+_Prerequisite;_
+Redis must be installed locally and running on port 6379
+
 _To run the project;_ 
 - clone the repo
 - run npm install in the root directory of the cloned directory(where package.json is)
